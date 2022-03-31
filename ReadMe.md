@@ -3,7 +3,7 @@ We recommend Pixel 3 API 32 Google Play. This phone has google play support whic
 You may need our API Key for Google Maps. It is: AIzaSyC-vXET_YKJrz1UisWeelIiHgRupySXyhM
 
 ## Beginners guide
-Begin by running the program.\
+Begin by running the program on Android Studio.\
 Select "New User? Click Me to Sign Up"\
 Fill out the appropriate fields and create your own user.\
 Then please log in.\
